@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TangkasAgus28</h1>
+<h1 align="center">Hi 👋, I'm Tangkas Agus Sucita</h1>
 
 ---
 <h2 align="center">🛠️ Tools & Platforms</h2>
@@ -31,7 +31,7 @@
 <h2 align="center">📩 Contact</h2>
 
 <p align="center">
-  <a href="mailto:email.Tangkasagus28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:Tangkasagus28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/tangkas.28/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 
